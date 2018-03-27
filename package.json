@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AleksBartov/CodeWithMosh#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "joi": "^13.1.2"
   }
 }
