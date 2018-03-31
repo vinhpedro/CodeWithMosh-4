@@ -5,6 +5,8 @@ const logger = require('./logger');
 const express = require('express');
 const app = express();
 
+console.log(``);
+
 
 app.use(express.json());
 app.use(express.urlencoded({extended: true }));
